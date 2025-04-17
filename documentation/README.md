@@ -2,13 +2,16 @@
 
 ## parts dump
 
-single pole press conn
-https://www.digikey.ca/en/products/detail/phoenix-contact/1751066/4482697
-https://www.mouser.ca/ProductDetail/Phoenix-Contact/1751066?qs=YjJcVSlHJPXF6y9LwP5Nnw%3D%3D
-https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-spt-25-1-h-50-1751066
+- BNC connector
+  - same as pH, DO, EC
+- TP5551-SR op amp
+  - https://www.digikey.ca/en/products/detail/3peak/TP5551-SR/22228372
+- 3V linear reg. XC6206P302MR
+  - https://www.digikey.ca/en/products/detail/umw/xc6206p302mr/17635256
 
-buck inductor
-https://www.mouser.ca/ProductDetail/Bourns/1130-561K-RC?qs=VY5%2FUM8ph%2FMBak%2F%2FXWqo%2FA%3D%3D
+## references
 
-CRxx press fit terms
-https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-tdpt-4-2-sp-635-zb-1017521
+- DF Robot DO meter sensor
+  - https://raw.githubusercontent.com/DFRobot/Gravity_Analog_Dissolved_Oxygen_Sensor/master/Schematic%20V1.0.pdf
+  - https://raw.githubusercontent.com/DFRobot/Gravity_Analog_Dissolved_Oxygen_Sensor/master/Layout%20with%20Dimension%20V1.0.pdf
+  - https://www.dfrobot.com/product-1628.html

@@ -234,11 +234,15 @@
         },
         {
           "diameter": 0.5,
-          "drill": 0.25
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         },
         {
           "diameter": 1.0,
-          "drill": 0.5
+          "drill": 25.0
         },
         {
           "diameter": 1.5,
@@ -724,6 +728,10 @@
     [
       "66043bca-a260-4915-9fce-8a51d324c687",
       "Root"
+    ],
+    [
+      "e8c81c0f-27f2-4a6a-88c8-92b4602552a0",
+      "DO Amplifier"
     ]
   ],
   "text_variables": {}
