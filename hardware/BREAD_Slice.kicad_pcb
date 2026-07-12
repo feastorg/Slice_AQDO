@@ -2798,7 +2798,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:SOIC127P600X175-8N"
+	(footprint "KMLib_IC_SMD:SOIC127P600X175-8N"
 		(layer "F.Cu")
 		(uuid "40e9e57e-b911-4764-922e-a6a73c95dab4")
 		(at 167.6 81.365 180)
@@ -3383,7 +3383,7 @@
 			)
 		)
 	)
-	(footprint "SparkFun-LED:WS2812-5050-4PIN"
+	(footprint "KMLib_IC_SMD:WS2812-5050-4PIN"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "4ec4e171-1549-4997-8479-26c2f6f0dd92")
@@ -3679,7 +3679,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "kml-custom:03154311010"
+	(footprint "KMLib_Connectors:03154311010"
 		(layer "F.Cu")
 		(uuid "64cbf418-98e0-49b1-811b-c9e3f7a06a16")
 		(at 180 80.725 -90)
@@ -5431,7 +5431,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:Thermal Pad"
+	(footprint "KMLib_Mounting:Thermal_Pad"
 		(layer "F.Cu")
 		(uuid "91f7aa6c-6edf-407e-9412-7655c2cabadb")
 		(at 131.8 121.45)

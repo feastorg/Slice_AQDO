@@ -667,7 +667,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "kml-custom:TP5551-SR"
+		(symbol "KMLib_IC_Analog:TP5551-SR_Chopper_Amplifier"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1799,7 +1799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kml-custom:03154311010"
+		(property "Footprint" "KMLib_Connectors:03154311010"
 			(at 62.23 19.38 0)
 			(hide yes)
 			(show_name no)
@@ -2083,7 +2083,7 @@
 		)
 	)
 	(symbol
-		(lib_id "kml-custom:TP5551-SR")
+		(lib_id "KMLib_IC_Analog:TP5551-SR_Chopper_Amplifier")
 		(at 134.62 106.68 0)
 		(unit 1)
 		(body_style 1)
@@ -2114,7 +2114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kml-custom:SOIC127P600X175-8N"
+		(property "Footprint" "KMLib_IC_SMD:SOIC127P600X175-8N"
 			(at 158.75 201.6 0)
 			(hide yes)
 			(show_name no)
