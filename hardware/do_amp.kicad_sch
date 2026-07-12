@@ -814,7 +814,7 @@
 					(justify left top)
 				)
 			)
-			(symbol "TP5551-SR_1_1"
+			(symbol "TP5551-SR_Chopper_Amplifier_1_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 22.86 -10.16)
