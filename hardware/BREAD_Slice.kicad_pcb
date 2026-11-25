@@ -8257,12 +8257,12 @@
 		(uuid "0d98ed9b-8921-44da-bfb0-4d685189a75f")
 	)
 	(segment
-		(start 175.6 135.9)
-		(end 175.6 137.255769)
+		(start 175.677 135.9)
+		(end 175.677 137.332769)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "GND")
-		(uuid "8a5d8f6e-47fe-4926-8d3a-18bdfed57162")
+		(uuid "784d528d-1542-458d-9140-b6a4d00ba49e")
 	)
 	(segment
 		(start 181.775 79.96)
@@ -8382,25 +8382,6 @@
 		(filling no)
 		(net "GND")
 		(uuid "04ae2f12-dadd-4220-81b7-45577b74af32")
-	)
-	(via
-		(at 170.425 77.075)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(free yes)
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "052acbea-e749-4278-a83e-faef017d23a9")
 	)
 	(via
 		(at 144.775 100.875)
@@ -10487,24 +10468,6 @@
 		(uuid "8ab2ce92-ba15-4b50-a0ff-6ac8cc168d7c")
 	)
 	(via
-		(at 175.6 135.9)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "8b63bd2e-6e33-4ba9-97a7-de5c76e68ef5")
-	)
-	(via
 		(at 158.884976 78.265024)
 		(size 0.8)
 		(drill 0.4)
@@ -10893,25 +10856,6 @@
 		(uuid "a765a17e-73d7-470f-abf8-b36eaf1c8b6a")
 	)
 	(via
-		(at 185.15 69.55)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(free yes)
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "a78f18ec-776b-4d56-a441-41d7f953bb14")
-	)
-	(via
 		(at 173.375 67.95)
 		(size 0.8)
 		(drill 0.4)
@@ -11120,25 +11064,6 @@
 		(uuid "b3d9aaf1-3dc2-4427-a44f-f0f11b8c3d66")
 	)
 	(via
-		(at 185.175 89.2)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(free yes)
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "b4129108-d05e-4192-b47f-c9896d8737ae")
-	)
-	(via
 		(at 136.875 124.325)
 		(size 0.8)
 		(drill 0.4)
@@ -11326,6 +11251,14 @@
 		(filling no)
 		(net "GND")
 		(uuid "bf25b268-f2f5-4dac-933c-7c0821f19b70")
+	)
+	(via
+		(at 175.677 135.9)
+		(size 0.8)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "c089d8ba-a45f-4221-b85c-0cfa919d6a12")
 	)
 	(via
 		(at 187.975 73.225)
