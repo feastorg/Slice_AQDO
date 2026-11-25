@@ -8736,25 +8736,6 @@
 		(uuid "142d96c8-61c0-41e6-afcd-55131632c8b6")
 	)
 	(via
-		(at 144.925 98.475)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(free yes)
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "15f6de15-0732-4b41-bc7a-b182dc96db7b")
-	)
-	(via
 		(at 167.409976 69.740024)
 		(size 0.8)
 		(drill 0.4)
@@ -10499,25 +10480,6 @@
 		(filling no)
 		(net "GND")
 		(uuid "85b49163-34cc-4420-bd61-ab157ef3a437")
-	)
-	(via
-		(at 140.55 96.45)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(free yes)
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "85e6a6f5-2029-438f-ab96-97a96b1bedfc")
 	)
 	(via
 		(at 190.2 90.675)
