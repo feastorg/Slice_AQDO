@@ -4,7 +4,7 @@ id: slice-aqdo
 name: Dissolved Oxygen Sensor
 summary: Analog dissolved oxygen amplifier and measurement slice for aquaculture/water quality.
 category: sensing
-status: concept
+status: development
 hardware:
   hw_gen_current: 3
   interface: SI1
